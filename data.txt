@@ -1,0 +1,6 @@
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     36      63      72     351      72 5293000 
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+       45        81        90      8728        99 493800000 
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+      81      270      288     1040      432 44360000 
